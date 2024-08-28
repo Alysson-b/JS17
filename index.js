@@ -1,4 +1,4 @@
-const apiKey = 'f4b90a604dd28bb637c465f0e9af294a'; // Substitua pela sua chave de API
+const apiKey = 'f4b90a604dd28bb637c465f0e9af294a'; 
 const apiBase = 'https://api.themoviedb.org/3/';
 const catalogElement = document.getElementById('catalog');
 const detailsElement = document.getElementById('details');
